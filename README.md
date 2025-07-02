@@ -1,9 +1,9 @@
-## Hi there 👋
+# Hi there 👋
 <p>
 I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate about technology and innovation. I am currently a student of Computer Science with strong interests in Artificial Intelligence, Machine Learning, and Web Development. I love building creative projects, exploring new frameworks, and tackling challenging problems. Always eager to collaborate, learn, and share knowledge with the community!
 </p>
 <!-- Tech Stack Icons -->
-<p align="left">
+<p align="center">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C/C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -29,15 +29,28 @@ I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-## 🛠️ Skills
+# 🚀 Featured Projects
+- ☀️ Solar Prediction
+Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance on solar energy prediction.
+
+- 🤖 AI Connect 4
+An AI-powered version of the classic Connect 4 game. Challenge the bot, test your strategy, and learn how game AI works! Implemented using Minimax.
+
+- 🖼️ Image Similarity Project
+Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate the computation of image similarity, showcasing the power of parallel programming.
+
+- 🎲 Dice Roll Game
+A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First Web Project)
+<hr>
+<p align = "center">
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/output/github-contribution-grid-snake-dark.svg" />
+</p>
+<hr>
+# 🛠️ Skills
 
 **Languages:**  
-- C/C++ 
-- Python 
-- Java 
-- JavaScript 
-- HTML
-- CSS  
+C/C++ • Python • Java • JavaScript • HTML • CSS  
+
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
@@ -88,20 +101,21 @@ I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate
   <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🛠️ DevOps</span>
 </p>
 
-## 🔥 GitHub Stats
+# 📈 GitHub Stats
 
-<p align="left">
+<p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/output/github-contribution-grid-snake.svg" />
-<p align="left">
+<hr>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
 </p>
-<p align="left">
+<hr>
+<p align="center">
   <img src="https://streak-stats.demolab.com?user=AbdulTawabJ&theme=tokyonight&hide_border=true" alt="AbdulTawabJ's GitHub Streak" />
 </p>
 
-## 📫 How to Reach Me
+# 📞 Contact
 _Let’s connect and create something awesome!_
 
 <p>
