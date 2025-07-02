@@ -89,7 +89,7 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
 <hr>
-![Snake animation](https://abdultawabj.github.io/AbdulTawabJ/github-contribution-grid-snake.gif)
+![Snake animation](https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/main/assets/github-contribution-grid-snake.gif)
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
