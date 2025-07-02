@@ -93,7 +93,7 @@ I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
-![Snake animation](https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/main/assets/github-contribution-grid-snake.gif)
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
 </p>
