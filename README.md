@@ -1,9 +1,9 @@
-## Hi there 👋 
-
+## Hi there 👋
+<p>
 I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate about technology and innovation. I am currently a student of Computer Science with strong interests in Artificial Intelligence, Machine Learning, and Web Development. I love building creative projects, exploring new frameworks, and tackling challenging problems. Always eager to collaborate, learn, and share knowledge with the community!
-
+</p>
 <!-- Tech Stack Icons -->
-<p align="center">
+<p align="left">
   <!-- Languages -->
   <img src="https://img.shields.io/badge/C/C++-00599C?style=flat&logo=cplusplus&logoColor=white" alt="C/C++"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" alt="Python"/>
@@ -32,7 +32,12 @@ I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate
 ## 🛠️ Skills
 
 **Languages:**  
-C/C++ • Python • Java • JavaScript • HTML • CSS  
+- C/C++ 
+- Python 
+- Java 
+- JavaScript 
+- HTML
+- CSS  
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="32" height="32"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="32" height="32"/>
@@ -83,7 +88,7 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🛠️ DevOps</span>
 </p>
 
-## 🔥 GitHub Stats\
+## 🔥 GitHub Stats
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
@@ -106,8 +111,7 @@ _Let’s connect and create something awesome!_
   <a target="_blank" href="mailto:junejoabdultawab1@gmail.com">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
   </a>
-</p>
-<p>
+
   <a target="_blank" href="https://linkedin.com/in/abdul-tawab-junejo">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
 </p>
