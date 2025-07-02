@@ -90,17 +90,14 @@ I'm Abdul Tawab, an aspiring computer scientist and lifelong learner. Passionate
 
 ## 🔥 GitHub Stats
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
-<hr>
 ![Snake animation](https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/main/assets/github-contribution-grid-snake.gif)
-<hr>
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
 </p>
-<hr>
-<p align="center">
+<p align="left">
   <img src="https://streak-stats.demolab.com?user=AbdulTawabJ&theme=tokyonight&hide_border=true" alt="AbdulTawabJ's GitHub Streak" />
 </p>
 
