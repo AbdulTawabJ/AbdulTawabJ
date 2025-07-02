@@ -89,6 +89,8 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
 <hr>
+![Snake animation](https://github.com/AbdulTawabJ/AbdulTawabJ/blob/output/github-contribution-grid-snake.svg)
+<hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
 </p>
@@ -102,11 +104,11 @@ _Let’s connect and create something awesome!_
 
 <p>
   <a target="_blank" href="mailto:junejoabdultawab1@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="16" height="16"/> junejoabdultawab1@gmail.com
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
   </a>
 </p>
 <p>
   <a target="_blank" href="https://linkedin.com/in/abdul-tawab-junejo">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="16" height="16"/> @Abdul Tawab Junejo</a>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="32" height="32"/></a>
 </p>
 
