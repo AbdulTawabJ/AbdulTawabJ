@@ -3,6 +3,35 @@
 An aspiring computer scientist and lifelong learner. Passionate about technology and innovation. I am currently a student of Computer Science with strong interests in Artificial Intelligence, Machine Learning, and Web Development. I love building creative projects, exploring new frameworks, and tackling challenging problems. Always eager to collaborate, learn, and share knowledge with the community!
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/%20Artificial%20Intelligence-3b4252?style=for-the-badge&labelColor=3b4252&color=ebcb8b&label=&logo=" alt="AI tag"/>
+  <img src="https://img.shields.io/badge/%20Machine%20Learning-3b4252?style=for-the-badge&labelColor=3b4252&color=a3be8c&label=&logo=" alt="ML tag"/>
+  <img src="https://img.shields.io/badge/%20Parallel%20Computing-3b4252?style=for-the-badge&labelColor=3b4252&color=b48ead&label=&logo=" alt="Parallel Computing tag"/>
+  <img src="https://img.shields.io/badge/%20Algorithms%20&%20Data%20Structures-3b4252?style=for-the-badge&labelColor=3b4252&color=bf616a&label=&logo=" alt="Algorithms tag"/>
+  <img src="https://img.shields.io/badge/%20Web%20Development-3b4252?style=for-the-badge&labelColor=3b4252&color=ebcb8b&label=&logo=" alt="Web Dev tag"/>
+  <img src="https://img.shields.io/badge/%20Data%20Science-3b4252?style=for-the-badge&labelColor=3b4252&color=b48ead&label=&logo=" alt="Data Science tag"/>
+  <img src="https://img.shields.io/badge/🖥%20Systems%20Level%20Programming-3b4252?style=for-the-badge&labelColor=3b4252&color=d08770&label=&logo=" alt="Systems Programming tag"/>
+  <img src="https://img.shields.io/badge/%20Computer%20Networks-3b4252?style=for-the-badge&labelColor=3b4252&color=5e81ac&label=&logo=" alt="Networks tag"/>
+  <img src="https://img.shields.io/badge/%20DevOps-3b4252?style=for-the-badge&labelColor=3b4252&color=8fbcbb&label=&logo=" alt="DevOps tag"/>
+</p>
+
+## Featured Projects
+- ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/solar-prediction)  
+  Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance.
+
+- 🤖 [AI Connect 4](https://github.com/AbdulTawabJ/ai-connect-4)  
+  An AI-powered version of the classic Connect 4 game. Challenge the bot, test your strategy, and learn how game AI works! Implemented using Minimax.
+
+- 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/image-similarity)  
+  Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
+
+- 🎲 [Dice Roll Game](https://github.com/AbdulTawabJ/dice-roll-game)  
+  A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First Web Project)
+  
+<p align = "center">
+<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 
 <!-- Tech Stack Icons -->
 <p align="center">
@@ -31,24 +60,6 @@ An aspiring computer scientist and lifelong learner. Passionate about technology
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
-
-## Featured Projects
-- ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/solar-prediction)  
-  Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance.
-
-- 🤖 [AI Connect 4](https://github.com/AbdulTawabJ/ai-connect-4)  
-  An AI-powered version of the classic Connect 4 game. Challenge the bot, test your strategy, and learn how game AI works! Implemented using Minimax.
-
-- 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/image-similarity)  
-  Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
-
-- 🎲 [Dice Roll Game](https://github.com/AbdulTawabJ/dice-roll-game)  
-  A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First Web Project)
-  
-<p align = "center">
-<img alt="GitHub Snake" src="https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/output/github-contribution-grid-snake-dark.svg" />
-</p>
-<hr>
 
 
 ## Skills
@@ -93,22 +104,7 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="32" height="32"/>
 </p>
 
-## Topics
-
-<p>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🤖 Artificial Intelligence</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🧠 Machine Learning</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">⚡ Parallel Computing</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">📊 Algorithms & Data Structures</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🌐 Web Development</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">📈 Data Science</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🖥️ Systems Level Programming</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🌍 Computer Networks</span>
-  <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🛠️ DevOps</span>
-</p>
-
 ## GitHub
-<hr>
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
