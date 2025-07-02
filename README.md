@@ -83,13 +83,13 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <span style="display:inline-block;background:#22223b;color:#f2e9e4;border-radius:20px;padding:6px 14px;font-size:15px;margin:3px;">🛠️ DevOps</span>
 </p>
 
-## 🔥 GitHub Stats
+## 🔥 GitHub Stats\
 
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
 <hr>
-![Snake animation](https://github.com/AbdulTawabJ/AbdulTawabJ/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://abdultawabj.github.io/AbdulTawabJ/github-contribution-grid-snake.gif)
 <hr>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
