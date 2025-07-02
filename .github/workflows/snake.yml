@@ -1,23 +1,32 @@
-name: Generate Snake
+name: Generate Snake GIF into Main
 
 on:
   schedule:
-    - cron: "0 0 * * *" # runs every midnight
+    - cron: "0 0 * * *"  # every day at midnight
   workflow_dispatch:
 
 jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - uses: Platane/snk@v3
+      - name: Checkout main
+        uses: actions/checkout@v3
+        with:
+          ref: main
+
+      - name: Generate snake gif
+        uses: Platane/snk@v3
         with:
           github_user_name: abdultawabj
           outputs: |
-            dist/github-contribution-grid-snake.gif
-      - name: Push snake animation to the output branch
-        uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
+            assets/github-contribution-grid-snake.gif
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Commit and push snake gif
+        run: |
+          git config user.name github-actions
+          git config user.email github-actions@github.com
+          git add assets/github-contribution-grid-snake.gif
+          git commit -m "update snake gif"
+          git push
