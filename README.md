@@ -6,13 +6,13 @@ An aspiring computer scientist and lifelong learner. Passionate about technology
 <p align="center">
   <img src="https://img.shields.io/badge/%20Artificial%20Intelligence-3b4252?style=for-the-badge&labelColor=3b4252&color=ebcb8b&label=&logo=" alt="AI tag"/>
   <img src="https://img.shields.io/badge/%20Machine%20Learning-3b4252?style=for-the-badge&labelColor=3b4252&color=a3be8c&label=&logo=" alt="ML tag"/>
-  <img src="https://img.shields.io/badge/%20Parallel%20Computing-3b4252?style=for-the-badge&labelColor=3b4252&color=b48ead&label=&logo=" alt="Parallel Computing tag"/>
-  <img src="https://img.shields.io/badge/%20Algorithms%20&%20Data%20Structures-3b4252?style=for-the-badge&labelColor=3b4252&color=bf616a&label=&logo=" alt="Algorithms tag"/>
   <img src="https://img.shields.io/badge/%20Web%20Development-3b4252?style=for-the-badge&labelColor=3b4252&color=ebcb8b&label=&logo=" alt="Web Dev tag"/>
   <img src="https://img.shields.io/badge/%20Data%20Science-3b4252?style=for-the-badge&labelColor=3b4252&color=b48ead&label=&logo=" alt="Data Science tag"/>
-  <img src="https://img.shields.io/badge/🖥%20Systems%20Level%20Programming-3b4252?style=for-the-badge&labelColor=3b4252&color=d08770&label=&logo=" alt="Systems Programming tag"/>
   <img src="https://img.shields.io/badge/%20Computer%20Networks-3b4252?style=for-the-badge&labelColor=3b4252&color=5e81ac&label=&logo=" alt="Networks tag"/>
   <img src="https://img.shields.io/badge/%20DevOps-3b4252?style=for-the-badge&labelColor=3b4252&color=8fbcbb&label=&logo=" alt="DevOps tag"/>
+  <img src="https://img.shields.io/badge/%20Parallel%20Computing-3b4252?style=for-the-badge&labelColor=3b4252&color=b48ead&label=&logo=" alt="Parallel Computing tag"/>
+  <img src="https://img.shields.io/badge/%20Algorithms%20&%20Data%20Structures-3b4252?style=for-the-badge&labelColor=3b4252&color=bf616a&label=&logo=" alt="Algorithms tag"/>
+  <img src="https://img.shields.io/badge/🖥%20Systems%20Level%20Programming-3b4252?style=for-the-badge&labelColor=3b4252&color=d08770&label=&logo=" alt="Systems Programming tag"/>
 </p>
 
 ## Featured Projects
@@ -26,12 +26,13 @@ An aspiring computer scientist and lifelong learner. Passionate about technology
   Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
 
 - 🎲 [Dice Roll Game](https://github.com/AbdulTawabJ/dice-roll-game)  
-  A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First Web Project)
+  A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First of many Web Projects)
   
 <p align = "center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/AbdulTawabJ/AbdulTawabJ/output/github-contribution-grid-snake-dark.svg" />
 </p>
 
+## Skills
 
 <!-- Tech Stack Icons -->
 <p align="center">
@@ -61,8 +62,6 @@ An aspiring computer scientist and lifelong learner. Passionate about technology
   <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat&logo=supabase&logoColor=white" alt="Supabase"/>
 </p>
 
-
-## Skills
 
 **Languages:**  
 
@@ -109,10 +108,10 @@ C/C++ • Python • Java • JavaScript • HTML • CSS
   <img src="https://github-profile-trophy.vercel.app/?username=AbdulTawabJ&theme=tokyonight&no-frame=true&column=7" alt="AbdulTawabJ's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
+  <img src="https://streak-stats.demolab.com?user=AbdulTawabJ&theme=tokyonight&hide_border=true" alt="AbdulTawabJ's GitHub Streak" />
 </p>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=AbdulTawabJ&theme=tokyonight&hide_border=true" alt="AbdulTawabJ's GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api?username=AbdulTawabJ&show_icons=true&theme=tokyonight" alt="AbdulTawabJ's GitHub stats" />
 </p>
 
 ## Contact
@@ -120,7 +119,7 @@ _Let’s connect and create something awesome!_
 
 <p>
   <a target="_blank" href="mailto:junejoabdultawab1@gmail.com">
-    <img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="38" height="32"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="37" height="30"/>
   </a>
 
   <a target="_blank" href="https://linkedin.com/in/abdul-tawab-junejo">
