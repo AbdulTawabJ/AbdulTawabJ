@@ -120,7 +120,7 @@ _Let’s connect and create something awesome!_
 
 <p>
   <a target="_blank" href="mailto:junejoabdultawab1@gmail.com">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="32" height="32"/>
+    <img src="https://static.vecteezy.com/system/resources/previews/022/484/508/non_2x/google-mail-gmail-icon-logo-symbol-free-png.png" alt="Gmail" width="38" height="32"/>
   </a>
 
   <a target="_blank" href="https://linkedin.com/in/abdul-tawab-junejo">
