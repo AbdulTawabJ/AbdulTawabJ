@@ -16,16 +16,16 @@ An aspiring computer scientist and lifelong learner. Passionate about technology
 </p>
 
 ## Featured Projects
-- ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/solar-prediction)  
+- ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/SolarPredictionEnergy)  
   Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance.
 
-- 🤖 [AI Connect 4](https://github.com/AbdulTawabJ/ai-connect-4)  
+- 🤖 [AI Connect 4](https://github.com/AbdulTawabJ/AI3PlayerConnect4)  
   An AI-powered version of the classic Connect 4 game. Challenge the bot, test your strategy, and learn how game AI works! Implemented using Minimax.
 
-- 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/image-similarity)  
+- 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/ImageSimilarity)  
   Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
 
-- 🎲 [Dice Roll Game](https://github.com/AbdulTawabJ/dice-roll-game)  
+- 🎲 [Dice Roll Game](https://github.com/AbdulTawabJ/Dice-Roll-WebGame)  
   A simple and fun web app that lets you roll two dice - a great way to solve arguments :] (My First of many Web Projects)
   
 <p align = "center">
