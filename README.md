@@ -17,12 +17,15 @@ CS Graduate (FAST-NUCES, 2026) building AI-native products and full-stack apps. 
 - 🛒 [Stu](https://stu-concierge.com) | *Open Beta is Live Now!*  
   AI-powered grocery & meal-planning assistant. Conversational ordering, kitchen/home preferences, OpenAI LLM integration, Shopify-backed catalog. FAST-NUCES FYP, now in open beta.
 
+- 🗂️ [TMF Asset Manager](https://tmf-asset-manager.onrender.com) | *Live Demo*  
+  Prototype role-based IT asset lifecycle & tracking system built during my Thardeep Microfinance internship. Laravel · Tailwind · MySQL/SQLite — asset CRUD, transfer audit trail, IT review workflow, a custom multi-condition query builder, and CSV report export. Demo login `admin@tmf.demo` / `password`. [Code →](https://github.com/AbdulTawabJ/asset-manager)
+
+- 🍽️ [Salto](https://salto-rose.vercel.app) | *Live Demo*  
+  Full-stack restaurant management & food-ordering system with separate customer and admin experiences — category browsing, a cart food-recommendation engine, JWT role-based auth, and live order tracking (Processing → Out for Delivery → Delivered). React · Tailwind · Node/Express · Sequelize · PostgreSQL, with full SE documentation (SRS, SDS, RMMM) and Jira delivery. *My part: admin portal, GitHub CI/CD, and Jira management.* [Code →](https://github.com/muzaffar16/salto)
+
 - ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/SolarPredictionEnergy)  
   Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance.
 
-- 🗂️ [TMF Asset Manager](https://tmf-asset-manager.onrender.com) | *Live Demo*  
-  Prototype role-based IT asset lifecycle & tracking system built during my Thardeep Microfinance internship. Laravel · Tailwind · MySQL/SQLite — asset CRUD, transfer audit trail, IT review workflow, a custom multi-condition query builder, and CSV report export. Demo login `admin@tmf.demo` / `password`. [Code →](https://github.com/AbdulTawabJ/asset-manager)
-  
 - 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/ImageSimilarity)  
   Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
 
