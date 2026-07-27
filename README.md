@@ -20,9 +20,9 @@ CS Graduate (FAST-NUCES, 2026) building AI-native products and full-stack apps. 
 - ☀️ [Solar Prediction](https://github.com/AbdulTawabJ/SolarPredictionEnergy)  
   Intelligent prediction of solar intensity using machine learning and real-world data. Used and compared several predictive models, including Linear Regression, SVC etc to evaluate their performance.
 
-- 🤖 [AI Connect 4](https://github.com/AbdulTawabJ/AI3PlayerConnect4)  
-  An AI-powered version of the classic Connect 4 game. Challenge the bot, test your strategy, and learn how game AI works! Implemented using Minimax.
-
+- 🗂️ [TMF Asset Manager](https://tmf-asset-manager.onrender.com) | *Live Demo*  
+  Prototype role-based IT asset lifecycle & tracking system built during my Thardeep Microfinance internship. Laravel · Tailwind · MySQL/SQLite — asset CRUD, transfer audit trail, IT review workflow, a custom multi-condition query builder, and CSV report export. Demo login `admin@tmf.demo` / `password`. [Code →](https://github.com/AbdulTawabJ/asset-manager)
+  
 - 🖼️ [Image Similarity Project](https://github.com/AbdulTawabJ/ImageSimilarity)  
   Parallel Computing Semester Project. Image Similarity based on Local Binary Patterns. Implemented with MPI and OpenMP in C++. Leveraged both multi-threading and multi-processing techniques to accelerate computations.
 
