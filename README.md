@@ -15,7 +15,7 @@ CS Graduate (FAST-NUCES, 2026) building AI-native products and full-stack apps. 
 
 ## Featured Projects
 - 🛒 [Stu](https://stu-concierge.com) | *Open Beta is Live Now!*  
-  AI-powered grocery & meal-planning assistant. Conversational ordering, kitchen/home preferences, OpenAI LLM integration, Shopify-backed catalog. FAST-NUCES FYP, now in open beta.
+  AI-powered grocery & meal-planning assistant. Conversational ordering, kitchen/home preferences, OpenAI LLM integration, Shopify-backed catalog. FAST-NUCES FYP, now in open beta. [Repo →](https://github.com/AbdulTawabJ/stu-showcase) 
 
 - 🗂️ [TMF Asset Manager](https://tmf-asset-manager.onrender.com) | *Live Demo*  
   Prototype role-based IT asset lifecycle & tracking system built during my Thardeep Microfinance internship. Laravel · Tailwind · MySQL/SQLite — asset CRUD, transfer audit trail, IT review workflow, a custom multi-condition query builder, and CSV report export. Demo login `admin@tmf.demo` / `password`. [Code →](https://github.com/AbdulTawabJ/asset-manager)
